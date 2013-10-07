@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAnimation.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CApp.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppState.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppStateGame.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppStateIntro.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppStateManager.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppStateMenu.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CArea.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CArea2.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CCamera.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CDrumstick.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CEntity.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CEvent.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CFPS.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CHam.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMap.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMeat.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMeatGen.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMonster.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMonsterGen.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CNpc.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CPlayer.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CSoundBank.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CSurface.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CTile.h" />
+    <ClInclude Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\Define.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAnimation.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CApp.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppState.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppStateGame.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppStateIntro.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppStateManager.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CAppStateMenu.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CApp_OnCleanup.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CApp_OnEvent.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CApp_OnInit.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CApp_OnLoop.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CApp_OnRender.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CArea.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CArea2.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CCamera.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CDrumstick.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CEntity.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CEntityCol.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CEvent.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CFPS.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CHam.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMap.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMeat.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMeatGen.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMonster.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CMonsterGen.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CNpc.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CPlayer.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CSoundBank.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CSurface.cpp" />
+    <ClCompile Include="..\..\I fuckin%27 love meat\I fuckin%27 love meat\CTile.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{91BC6858-1C57-414F-BA66-455098B27A63}</ProjectGuid>
+    <RootNamespace>Ifuckinlovemeat</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>C:\Users\Sam\Downloads\SDL_mixer-devel-1.2.12-VC\SDL_mixer-1.2.12\include;C:\Users\Sam\Downloads\SDL_image-devel-1.2.12-VC\SDL_image-1.2.12\include;C:\Users\Sam\Downloads\SDL-devel-1.2.15-VC\SDL-1.2.15\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LibraryPath>C:\Users\Sam\Downloads\SDL_mixer-devel-1.2.12-VC\SDL_mixer-1.2.12\lib\x86;C:\Users\Sam\Downloads\SDL_image-devel-1.2.12-VC\SDL_image-1.2.12\lib\x86;C:\Users\Sam\Downloads\SDL-devel-1.2.15-VC\SDL-1.2.15\lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>SDL.lib;SDLmain.lib;SDL_image.lib;SDL_mixer.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
